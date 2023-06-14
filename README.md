@@ -1,5 +1,5 @@
 # Serino
-A take home exam for Serino Application
+A technical exam for Serino Application
 
 Steps in running the app:
 
