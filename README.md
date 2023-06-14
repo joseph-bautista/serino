@@ -12,3 +12,7 @@ Steps in running the app:
 7. Populate the Database by running the "node seeder.js" command.
 8. Run the "node app.js" to make the app work.
 9. Test on Postman or use in your frontend.
+
+
+You can access/test the endpoints here:
+https://www.postman.com/lunar-star-596261/workspace/serino/request/11503865-8f9f829c-0816-46be-84cd-083107e0a2c7
