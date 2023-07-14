@@ -1,5 +1,6 @@
-# Serino
-A technical exam for Serino Application
+# Treasure Hunt
+
+A simple treasure hunt backend application using MySQL, NodeJs, and Express.js
 
 Steps in running the app:
 
