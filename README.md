@@ -5,7 +5,7 @@ A simple treasure hunt backend application using MySQL, NodeJs, and Express.js
 Steps in running the app:
 
 1. Make sure node and MySQL is installed in your local machine.
-2. Clone the app by running in your terminal "git clone https://github.com/joseph-bautista/serino.git"
+2. Clone the app
 3. Create an .env file. Use .env.example as your guide.
 4. In your MySQL create a database and make sure it is the same name as in your env file.
 5. Open your terminal and make sure you are in the root folder of the project. Then Run "npm install".
