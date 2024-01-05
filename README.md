@@ -15,4 +15,4 @@ Steps in running the app:
 9. Test on Postman or use it in your frontend.
 
 
-You can access/test the endpoints here:(https://www.postman.com/lunar-star-596261/workspace/treasure-hunt/overview)https://www.postman.com/lunar-star-596261/workspace/treasure-hunt/overview
+You can access/test the endpoints here: https://www.postman.com/lunar-star-596261/workspace/treasure-hunt/overview
