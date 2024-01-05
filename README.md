@@ -16,4 +16,5 @@ Steps in running the app:
 
 
 You can access/test the endpoints here:
-https://www.postman.com/lunar-star-596261/workspace/serino/request/11503865-8f9f829c-0816-46be-84cd-083107e0a2c7
+[https://www.postman.com/lunar-star-596261/workspace/serino/request/11503865-8f9f829c-0816-46be-84cd-083107e0a2c7
+](https://www.postman.com/lunar-star-596261/workspace/treasure-hunt/overview)https://www.postman.com/lunar-star-596261/workspace/treasure-hunt/overview
